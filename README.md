@@ -1,8 +1,22 @@
-# React + Vite
+# Yako E-Commerce 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Example e-commerce shop created using the MERN stack and payment implemented using Stripe
 
-Currently, two official plugins are available:
+## Features:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+  
+- **Responsive Design:** Access the application across various devices
+
+- **Product Catalog:** Range of products with images and prices
+
+- **REST API:** Using Node.js and MongoDB
+
+- **User Authentication:** Create an account, log in securely, and track your order history
+
+- **Shopping Cart:** Manage selected items, view  total cost, and proceed to checkout
+
+- **Payment:** Payment using Stripe
+
+
+- **Security:** JWT implemented to verify user and admin requests
+
