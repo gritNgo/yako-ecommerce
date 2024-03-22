@@ -1,6 +1,6 @@
 # Yako E-Commerce 
 
-Example e-commerce shop created using the MERN stack and payment implemented using Stripe
+Example e-commerce shop created with the MERN stack and payment implemented with Stripe
 
 ## Features:
 
